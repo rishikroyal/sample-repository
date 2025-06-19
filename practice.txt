@@ -1,0 +1,2 @@
+welcome to practice session
+this is the second line added after creating the file
